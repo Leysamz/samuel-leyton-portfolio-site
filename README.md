@@ -1,0 +1,2 @@
+# profile-portfolio-site
+ A simple, responsive portfolio website built using HTML, CSS, and JavaScript to showcase my projects, technical interests, and background. This repository includes the code for individual pages such as Home, About, Technical Interests, and Portfolio with detailed project descriptions and images. Ideal for personal branding and sharing my work with potential collaborators or employers.
